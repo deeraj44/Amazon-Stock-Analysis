@@ -5,6 +5,8 @@ An interactive Excel dashboard analyzing **28.3 years of Amazon daily stock data
 ![Dashboard](assets/dashboard.png)
 
 ---
+## Presentation Deck: https://amazon-amzn-stock-analys-4qspxzf.gamma.site/
+---
 
 ## Key Findings
 
